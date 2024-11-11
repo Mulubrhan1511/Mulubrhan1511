@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mulubrhan1511&label=Profile%20views&color=0e75b6&style=flat" alt="mulubrhan1511" /> </p>
 
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
