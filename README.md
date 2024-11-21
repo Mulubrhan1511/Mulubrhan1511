@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [harifsite.com](harifsite.com)
+- 👨‍💻 All of my projects are available at [harifsite.com](https://harifsite.com/)
 
 - 💬 Ask me about **react, Nestjs, Expressjs, Python,**
 
